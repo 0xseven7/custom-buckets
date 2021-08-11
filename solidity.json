@@ -1,0 +1,16 @@
+{
+    "version": "0.8.6",
+    "description": "An object-oriented, high-level language for implementing smart contracts.",
+    "homepage": "https://solidity.readthedocs.io",
+    "license": "GPL-3.0-only",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/ethereum/solidity/releases/download/v0.8.6/solc-windows.exe",
+            "hash": "e52b42739da41dfe8c902b0e65daf1447928af3311860abbb165acbb840df8fc"
+        }
+    },
+    "bin": [
+        "solc.exe",
+        "soltest.exe"
+    ]
+}
